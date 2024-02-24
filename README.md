@@ -2,8 +2,6 @@
 
 This is a simple program that is used to allow a user to track their progress on some of their goals. This program is coded in the C# language and was made in Visual Studio Code. 
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
