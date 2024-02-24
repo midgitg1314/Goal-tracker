@@ -4,7 +4,6 @@ This is a simple program that is used to allow a user to track their progress on
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - [Learn Microsoft]([http://url.link.goes.here](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/))
 - [PluralSight]([http://url.link.goes.here](https://www.pluralsight.com/blog/software-development/everything-you-need-to-know-about-c-#:~:text=What%20is%20C%23%20used%20for,Lots%20and%20lots%20of%20games.)https://www.pluralsight.com/blog/software-development/everything-you-need-to-know-about-c-#:~:text=What%20is%20C%23%20used%20for,Lots%20and%20lots%20of%20games.)
